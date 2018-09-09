@@ -1,0 +1,24 @@
+michael hearn mjh55154@uga.edu
+
+filte transfer client 
+
+
+activete venv: source bin/activate
+
+to run: python3 ftserver.py --port port
+
+to run clients: 
+				#Use right number VCF!
+python3 ftclient.py --server vcf(1-5):47645 --receive
+
+
+                                ID=vcfRECIEVER#:47644 
+OLD:python3 ftclient.py --server vcf(1-5):47645 --send ID fileExample.txt
+NEW:python3 ftclient.py --server vcf(1-5):47645 -c CNUM -s SIZE --send ID fileExample.txt
+	    			 		 number of parrallell connections
+						-size of buffer of reciever
+
+can handle diffrent folder as long as its bellow *
+format should be /folder/nextfolder/filename
+
+

@@ -1,0 +1,10 @@
+dijk/:
+total 24
+-rw-r--r-- 1 ugrad 1964 Apr 19 01:21 dijkstra.py
+-rw-r--r-- 1 ugrad 1941 Apr 19 01:16 djk.py~
+-rw-r--r-- 1 ugrad 1964 Apr 19 09:31 example.py
+-rw-r--r-- 1 ugrad 1962 Apr 19 09:30 example.py~
+-rw-r--r-- 1 ugrad  375 Apr 19 09:42 README.md
+-rw-r--r-- 1 ugrad  197 Apr 19 09:28 README.md~
+-rw-r--r-- 1 ugrad    0 Apr 19 09:48 rec38278
+/home/ugrads/hearn/networks/dijk/:/home/work/cs4760

@@ -1,0 +1,2 @@
+echo "host port filename"
+time nc $0 $1 < $2

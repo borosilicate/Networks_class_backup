@@ -1,0 +1,8 @@
+michael hearn mjh55154@uga.edu 
+filte transfer client 
+
+
+activete venv: source bin/activate
+
+to run: python3 ftserver.py
+
